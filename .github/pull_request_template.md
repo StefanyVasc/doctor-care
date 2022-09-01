@@ -1,15 +1,26 @@
-## I'm submmiting a ...
-- [ ] Bug report
-- [ ] Feature request
+* **Please check if the PR fulfills these requirements**
+- [ ] The commit message follows our guidelines
+- [ ] Tests for the changes have been added (for bug fixes / features)
+- [ ] Docs have been added / updated (for bug fixes / features)
 
-## What does this PR do?
 
-## What is the current behavior?
+* **What kind of change does this PR introduce?** (Bug fix, feature, docs update, ...)
 
-## If the current behavior is a bug, please provide the steps to reproduce and if possible a minimal demo of the problem (could be a printscreen)
 
-## What is the expected behavior?
+* **What does this PR do? 
 
-## What is the motivation / use case for changing the behavior?
 
-## Proof of work
+
+* **What is the current behavior?** (You can also link to an open issue here)
+
+
+
+* **What is the new behavior (if this is a feature change)?**
+
+
+
+* **Does this PR introduce a breaking change?** (What changes might users need to make in their application due to this PR?)
+
+
+
+* **Other information**: (add your proof of work, a printscreen, a video, ...)
