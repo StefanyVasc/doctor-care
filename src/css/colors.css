@@ -3,4 +3,12 @@
     - use the naming pattern that is in figma
     -  Ex: --brand-green: #eee
     */
+    --White: #ffffff;
+    --brand-green: #00856f;
+    --brand-green-hover: #00453A;
+    --brand-green-light: #dce9e2;
+    --brand-green-light-02: #f7f9f9;
+    --brand-beige: #fffaf1;
+    --gray-headline: #212529;
+    --gray-paragraph: #495057;
 }
