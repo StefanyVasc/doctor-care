@@ -1,0 +1,33 @@
+#header{
+    position: relative;
+    width: 100%;
+    height: 72px;
+    font-family: 'DM Sans', sans-serif;
+    background: var(--brand-green);
+}
+
+#header ul{
+    text-align: center;
+}
+
+#header li{
+    color: var(--brand-green-light02);
+    font-weight: 400;
+    font-size: 16px;
+    height: 72px;
+    line-height: 72px;
+    margin-left: 16px;
+    margin-right: 16px;
+    opacity: .6;
+    display: inline-block;
+}
+
+#header a{
+    color: white;
+    text-decoration: none;
+}
+
+#header li:hover{
+    border-bottom: 2px solid white;
+    opacity: 1;
+}
