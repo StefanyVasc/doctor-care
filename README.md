@@ -1,7 +1,7 @@
 # doctor-care
 
 ## Layout
-Clique [aqui](https://www.figma.com/file/1aQzXShtjdJv5oEEYtEWZ9?) para acessar o layout no Figma.
+Click [here](https://www.figma.com/file/1aQzXShtjdJv5oEEYtEWZ9?) to access the layout. 
 
 ## Checklist
 - [x] Create Repo
