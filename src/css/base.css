@@ -22,12 +22,12 @@
     display: inline-block;
 }
 
-#header a{
-    color: white;
-    text-decoration: none;
-}
-
 #header li:hover{
     border-bottom: 2px solid white;
     opacity: 1;
+}
+
+#header a{
+    color: white;
+    text-decoration: none;
 }
