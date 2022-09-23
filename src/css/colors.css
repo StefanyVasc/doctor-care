@@ -1,13 +1,10 @@
 :root {
-/*Primary Colors */
---brand-green: #00856f;
---brand-green-light: #dce9e2;
---brand-green-light02: #F7F9F9;
---brand-beige:#FFFAF1;
---brand-green-hover:#00453A;
-
-/*Secundary Colors*/
---gray-headline:#061800;
---gray-paragraph:#384633;
---white:#3E3E3E;
+    --brand-green: #00856f;
+    --brand-green-light: #dce9e2;
+    --brand-green-light02: #F7F9F9;
+    --brand-beige: #FFFAF1;
+    --brand-green-hover: #00453A;
+    --gray-headline: #061800;
+    --gray-paragraph: #384633;
+    --white: #ffffff;
 }
