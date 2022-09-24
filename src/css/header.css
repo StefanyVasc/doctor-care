@@ -4,6 +4,7 @@
     font-family: "DM Sans", sans-serif;
     background-color: var(--brand-green-light);
     color: var(--brand-green);
+    /* position: relative; */
 }
 
 .navigation__list {
@@ -27,4 +28,37 @@
 .list__item a:hover {
     border-bottom: 2px solid var(--brand-green);
     opacity: 1;
+}
+
+/*A suggestion of header adjustment below*/
+
+
+/* .navigation {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+} */
+
+.navigation__logo {
+    margin-top: 26.91px;
+    margin-left: 124.78px;
+    height: 17.38px;
+    width: 132.86px;
+}
+
+.navigation__button {
+    /* grid-column-start: right; */
+    width: fit-content;
+    height: fit-content;
+    padding: 10px 20px;
+    margin-top: 15px;
+    margin-right: 147px;
+    text-transform: uppercase;
+    color: var(--brand-green);
+    border: 1px solid var(--brand-green);
+    border-radius: 20px;
+    background-color: var(--brand-green-light);
+}
+
+.navigation__button:hover {
+    cursor: pointer;
 }
