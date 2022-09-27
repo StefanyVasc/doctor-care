@@ -29,17 +29,20 @@
     opacity: 1;
 }
 
-.header__logo span{
+.header__logo {
+    font-size: 0px;
+}
+
+.header__logo span {
     font-size: 22px;
     letter-spacing: 1px;
 }
 
-.header__logo-doctor {
+.header__logo--left {
     color: var(--gray-headline)
 }
 
-.header__logo-care {
-    margin-left: -5px;
+.header__logo--right {
     font-weight: bold;
     color: var(--brand-green)
 }
