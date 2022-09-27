@@ -30,21 +30,15 @@
 }
 
 .header__logo {
-    font-size: 0px;
-}
-
-.header__logo span {
+    display: flex;
     font-size: 22px;
     letter-spacing: 1px;
-}
-
-.header__logo--left {
     color: var(--gray-headline)
 }
 
 .header__logo--right {
     font-weight: bold;
-    color: var(--brand-green)
+    color: var(--brand-green);
 }
 
 .header__button {
