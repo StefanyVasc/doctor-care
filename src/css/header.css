@@ -10,7 +10,7 @@
     color: var(--brand-green);
 }
 
-header button {
+.header__button {
     padding: 10px 20px;
     font-size: 14px;
     line-height: 18px;
@@ -23,7 +23,7 @@ header button {
     font-weight: bold;
 }
 
-header button:hover {
+.header__button:hover {
     cursor: pointer;
     color: var(--white);
     background-color: var(--brand-green);
