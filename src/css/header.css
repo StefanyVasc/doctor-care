@@ -2,7 +2,7 @@
     display: flex;
     font-size: 22px;
     letter-spacing: 1px;
-    color: var(--gray-headline)
+    color: var(--gray-headline);
 }
 
 .header__logo--right {
@@ -19,7 +19,7 @@
     border: 1px solid var(--brand-green);
     background-color: var(--brand-green-light);
     border-radius: 20px;
-    
+    white-space: nowrap;
     font-weight: bold;
 }
 
@@ -59,4 +59,20 @@
     border-bottom: 2px solid var(--brand-green);
     opacity: 1;
 }
+
+/* header adjust */
+
+body header {
+    display: flex;
+    align-items: center;
+    margin: 0px 100px;
+}
+
+@media (max-width: 600px) {
+    body header {
+        margin: 0px;
+    }
+}
+
+/* header adjust - end */
 
